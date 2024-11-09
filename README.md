@@ -1,2 +1,3 @@
-JavaScript Document Object Model (DOM)
-Project's 
+## Dom Project 
+- BackgorundChanger using Hex
+- BackgroundChanger using RGB
